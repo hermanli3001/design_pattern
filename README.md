@@ -1,3 +1,3 @@
 # leetcode algorithm learning in C
-This is a collection including some algorithm learning.  
-I practice it on leetcode with C.
+This is a collection of leetcode algorithm learning list.
+I practice it with C.
